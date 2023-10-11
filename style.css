@@ -1,0 +1,30 @@
+img {
+    width: 20em;
+    height: 30em;
+    object-fit: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+    color: silver;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+ul {
+    color: silver;
+    font-size: 1.5em;
+    list-style-type: circle;
+    display: inline-block;
+    text-align: left;
+}
+
+html {
+    background-color: black;
+}
